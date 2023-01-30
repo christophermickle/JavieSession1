@@ -1,0 +1,21 @@
+Target goal: 
+Build a fully functional to-do list app, where users can: 
+Add a task to their list
+Name their to-do list 
+View all tasks to complete
+Edit a task
+Delete a task 
+
+hints - The actual list, should be an object, 
+items within the list should be their own objects 
+Suggested values ( Id with the following saved inside 
+                  Task / created date & time / an )
+
+Practical target for 1 week : 
+Create an html and css page dummy layout
+  Show a title area,
+ a card containing a title for task list 
+ 3 dummy tasks that were written within the HTML 
+
+A javascript object containing the values that will be used to make
+the to-do list. 
