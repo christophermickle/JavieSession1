@@ -9,7 +9,7 @@ Delete a task
 hints - The actual list, should be an object, 
 items within the list should be their own objects 
 Suggested values ( Id with the following saved inside 
-                  Task / created date & time / an )
+                  Task / created date & time)
 
 Practical target for 1 week : 
 Create an html and css page dummy layout
